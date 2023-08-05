@@ -1,0 +1,35 @@
+class NameRoutes {
+  static const String login = '/login';
+  static const String signup = '/signup';
+  static const String changepassword = '/changepassword';
+  static const String restaurants = '/restaurants';
+  static const String setphotoscreen = '/setphotoscreen';
+  static const String browserestaurant = '/browserestaurant';
+  static const String mealsrestaurants = '/mealsrestaurants';
+  static const String themeal = '/themeal';
+  static const String categorymeals = '/categorymeals';
+  static const String order = '/order';
+  static const String paymentorder = '/paymentorder';
+  static const String editorder = '/editorder';
+  static const String profile = '/profile';
+  static const String restaurantLocation = '/restaurantLocation';
+  static const String orderdone = '/orderdone';
+  static const String chooselang = '/lang';
+  static const String onbording = '/onbording';
+  static const String forgetpassword = '/forgetpassword';
+  static const String verificationcode = '/verificationcode';
+  static const String resetpassword = '/resetpassword';
+  static const String passwordresetsuccesful = '/passwordresetsuccesful';
+  static const String signupsuccesful = '/signupsuccesful';
+  static const String verificationsignup = '/verificationsignup';
+  static const String homepage = '/homepage';
+  static const String home = '/home';
+  static const String items = '/items';
+  static const String product = '/product';
+  static const String favorite = '/favorite';
+  static const String cart = '/cart';
+  static const String addaddress = '/addaddress';
+  static const String chooseaddress = '/chooseaddress';
+  static const String viewaddress = '/viewaddress';
+  static const String addressdetails = '/addressdetails';
+}
